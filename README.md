@@ -1,2 +1,22 @@
 # ManajemenToko
- [Deskripsi singkat, misalnya: "Sistem Manajemen Toko dan Kasir Berbasis Web yang efisien dan modern."]  Aplikasi ini dibangun untuk mempermudah operasional toko, mulai dari manajemen produk dan stok, hingga pencatatan transaksi penjualan secara real-time
+
+Aplikasi backend untuk manajemen toko (inventory, transaksi, dan laporan penjualan).
+
+## 🚀 Tech Stack
+- Node.js
+- Express.js
+- MySQL
+- JWT Authentication
+
+## 📌 Fitur
+- Manajemen produk
+- Manajemen supplier
+- Restock & transaksi penjualan
+- Laporan penjualan harian & bulanan
+- Autentikasi user (Admin & Kasir)
+
+## ⚙️ Cara Menjalankan
+```bash
+npm install
+npm run dev
+
